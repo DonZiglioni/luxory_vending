@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/luxory_vending/static/css/main.78b424ef.css",
+    "main.js": "/luxory_vending/static/js/main.a8e8eeac.js",
+    "static/js/787.d2646dba.chunk.js": "/luxory_vending/static/js/787.d2646dba.chunk.js",
+    "static/media/vendingmachine.png": "/luxory_vending/static/media/vendingmachine.8f37ca5b7042cee93b9e.png",
+    "static/media/chip2.jpg": "/luxory_vending/static/media/chip2.61b07a7c47913644079e.jpg",
+    "static/media/chip.jpg": "/luxory_vending/static/media/chip.c6e29466b86f070897f5.jpg",
+    "static/media/caviar.jpg": "/luxory_vending/static/media/caviar.bb2f4d99093c77abe29d.jpg",
+    "static/media/caviar2.jpg": "/luxory_vending/static/media/caviar2.c80376fbf1c030ea9a40.jpg",
+    "static/media/doughnut.webp": "/luxory_vending/static/media/doughnut.c48b0407bff222d01425.webp",
+    "static/media/cheesecake.webp": "/luxory_vending/static/media/cheesecake.4b4c775347b3e2d8da08.webp",
+    "static/media/candybar.jpg": "/luxory_vending/static/media/candybar.3cd9a3727b97825256e2.jpg",
+    "static/media/drink.jpg": "/luxory_vending/static/media/drink.84453c8125f07e13449c.jpg",
+    "index.html": "/luxory_vending/index.html",
+    "main.78b424ef.css.map": "/luxory_vending/static/css/main.78b424ef.css.map",
+    "main.a8e8eeac.js.map": "/luxory_vending/static/js/main.a8e8eeac.js.map",
+    "787.d2646dba.chunk.js.map": "/luxory_vending/static/js/787.d2646dba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b424ef.css",
+    "static/js/main.a8e8eeac.js"
+  ]
+}
