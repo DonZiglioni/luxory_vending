@@ -1,0 +1,15 @@
+.nav-bar {
+    border: 2px solid black;
+}
+
+.nav-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkblue;
+    height: 3em;
+    color: white;
+    padding-left: 3em;
+    padding-right: 3em;
+    border-radius: 50%;
+}

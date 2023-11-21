@@ -1,0 +1,35 @@
+.card {
+    background-color: aquamarine;
+    height: 50%;
+    width: 75%;
+    margin-top: 5em;
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-img {
+    position: relative;
+    top: 1em;
+    height: 40%;
+    object-fit: contain;
+}
+
+.stats {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: relative;
+}
+
+.headline {
+    padding-left: 1em;
+    padding-right: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+}
+
+.forward {
+    text-align: center;
+    margin-top: -1em;
+    padding-bottom: .5em;
+}

@@ -1,0 +1,14 @@
+.price-tag {
+    position: absolute;
+    bottom: 25%;
+    height: 3em;
+    width: 18em;
+    padding: 2em;
+    background-color: rgba(0, 0, 80, 0.8);
+    color: white;
+    z-index: 4;
+    align-self: center;
+    text-align: center;
+    border-radius: 50%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
